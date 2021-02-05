@@ -1,1 +1,1 @@
-alert('test === ok');
+console.log('website is on working...')
